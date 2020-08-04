@@ -1,0 +1,353 @@
+
+------------------------------------------
+Running tests for mx_read_line for User
+Running tests for mx_read_line for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Failed
+
+user output vs test output
+1c1
+< 1 leak for 217088 total leaked bytes
+---
+> 0 leaks for 0 total leaked bytes
+
+You lost 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Failed
+
+user output vs test output
+0a1,26
+> LIxdg07wAvMQgRp
+> R
+> R5 FiuSVtQ8gUCBElNNOfhA9KQSYDN4KFpIJg
+> KMd7yo00fdPJi6mVDNlKOtU55aPxkeOp7ufE5qdMPthUYU5D83W4YMqWv2C   1
+> 2KOevQxnl4LH3tqBQq1XArBK
+> xJwWuOa2msPvv4
+> 0llpd3vNfJd0KQhnKFSHi pb fnvk
+> wm2ApOAEiKdxrx LeWORDozdsJGJBszro4XaO9tOKXUoDzhC9Jm8LrtwoVyUw8a83
+> avVIwCdNm2RohsHhmrE1oX jz5kB
+> XI6v
+> xwOiESsXl081Ne        0oZbm6Mnxz8tbRavtGWMqQxEFSAkPBUU8lWlFVGk5sJLnovd4AyFEZl5yMWO2Lhnx6sYmhsKRyadbhgcpvh6v4T02xfoLrXDoPOHufEnIfFcReLlisnhpBh7w3Oo4JWL7 AO8Unat3Uhzz9 qwg5VW5zvKESTdS7CynQJToWrS4u8YPj        mPNQgRrQpt5tUlnfMMZFk
+> Q4rOjGIe0dc
+> RNWli TxMFbSHGTkJThMjYDs3AtdupI
+> bSboFNoGaax30ECujuTz4tu0AodQN9Qw9ze4Ox9wdyMX  o13AlgGmpE      ixzD5ui6Xxu88LjHN 3n81DN9pYf6WYiYKi
+> RRy5H2pZu5raIhmjBKmV0T9VySuRN6B1lRb
+> r
+> f5v5  z43ap bNik2OSEGO uUBQAhQ2N      XDhmDqOk9QUvaQd aHvxvmL4rr3     bmvV sZw4hSGydQ ZopXo88eFaoOtxYq TUpPKUaVKouQbGSmvXsMGcF
+> E6Acyd2amCmL uY7      urtrnU XcJXujhJTSybW0   nEpO43RONdZfNRllTEs9CvsYy XsvOPlzYYFDRwWgbzSsU          tpq4aVLD2zX96krqNoiSzezrG51lZS3ZoYT8I4LLE3xeCVpol0fNk5MRMH7L9ye1yZVSsHowvxMuCy1OeQoa2QEglsQ3UKC9zzOG9ihzdghTtS1I68iO62E81rvhWm  ZVIJ2C951C0WtyeohUF57Hp
+> o2xLZfQA6 0j19bPTzYexoQN3ezT25UWx2bu
+> C743ySmVHKsdDEbqQlUDZijDmzZE  GQWPjkA t 84yFFJ z k tK
+>  Xy
+> Rqef7K9ObHyfD8FdlY6WDjHqVu FHd
+> Y2cn6fsotL9JVm2CsuJcPA        InYhZ0d7wxJDeJGH
+> 2JlTbjAYxElDmpPL      JimhNrW7k2rDoHcVGelzwIfizMDvk xVAXBtYpv0rEmvThQs4PY0WZ tAMzSDIvUiPunKMpP343ySkB9cnTQPcJSGGZaziXRRh5qecP2w8YuEdw kxaa    BCnddPcHxdpce65YFQwf
+> ShLYwxMgXIk3qfT6i2ayi 5nnBTh U 2t75EbLfDrV1bfACXWQiZmu1BYwtj9AysOxDH96D4mkrOczHWp1ZZi052GlMqGJJ0VS4cTaPKbBhrNZmlNkWGCLjJKn3qqjUzj1K uc
+> salCrrPnQI0KB0 leaks for 0 total leaked bytes
+
+You lost 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Failed
+
+user output vs test output
+0a1,175
+> G5YDoJhLR
+> 6EyyLVgXpqT8ijHb
+> ijuBbjmnaxtgkgJK GAbcSjKmjfTWJ0rGpHne2Tw8jYZsfQ iFqv4suSTR
+> qK2ioWP       cvmqzKzmgsGYYq3ddKbiKN2FoVyDCPXh0N3O0ncqyM0NZhajtKYttJMEpaMOW
+> dwd6sBIH6Tr
+> nQVnk5In9tzBKOmGjT8XQSfKW4UQUDWL0
+> r5MOIRbl4CDqtTlzPW5WXHcgwcgbiTHG4wb67
+> TqYzqhi2
+> g01Mat18uukO0
+> 0
+> B4np4s9Z1XEmQe6WyPVEzQIGkH6VW5vqVsW
+> FWSkpoy94lpY6CfzP6HuiwKIzcUIKw mgjuWymY1i90pClZGwdnTl2DzV5    
+> PH9wjAy8O6fZnzAs9E2JanPd3rptk
+> HKXXbuAiYUvK6iKy7gq4G5UOV     zQqai0tv4my9r4jVpAx     Co5AY6G8rR2Hd   nhKwD94vp       uS8FgO
+> OoJ9XR67eWMe57jeGnsmVSYuy26UIRR8KxB6dQQYj8Qjn8v
+> GOuEgarLgIC5U5oOSzlMZcAwzZAYLKmRoA4Om9gRf8n   2WmpxrTXF1SxuEh3272SIbwYXVfbnUfHLTIW8   nGOWH7aokz      obJxADfo7Iizj7OP        L1htk3xkojeZ
+> Lcu2kG        CEHypcXS4qxe    lSf6HRTCoqXGhlM X0JgBF6Kn       iB5YiCsxXT glDiTCK0IxVJn3a1Bu0UIy8 khcURV       xWEWLPHnx
+> Uyk5EO3IMAR2DEOBQkQ
+> lg9h  Alx     xdpQmVLPYrbRHt6j        hb      o9a
+>  fFsK5rNzVuawCiQc8ir
+> QgBcURx14IzjQT09KAbWa5cdkAyJghD K2lGVpqu7jMYYDpalConYSF75QW HnEntJyMLR8WTH28Y 0025I5WXDfuNNqRWGt7yjnfQSN4fwMSPRW7LaAgqeqyRTb 5JSZw1z8RG9oFcaHCnpBZFowk4Gb9px1jPaTAb7nyfI3A3WG1OYsAbPJsL1O2HXpsb2mf3v5qTtDcC8QhBtk8umKK 1jcCtuS rOKOPRb0K      E9yRBneHt3I     21IIFGALcQWxH   0rEd9tU4xMiqD5G90To0Ht7kIRWO9IPozenjumIvpDdpnfvUE
+> 3JuQt7fDrIgwotWlnpIUczcswPwhKAYOdq2gYNPjFGfSl5WAez25aEuMU9VKD8TclkfFIAVR5fR5kh5y      576P ne88QuYL8PbkX6l KW8JBdaic8u95W
+>       D9Sm37nmG5Isg2
+> KEMur92zEClt5m5fmse78NQxdZ TgufewhQYBHQmUsavn07qp36kJFluwC9QAX
+> pKzd8TNtYh1yVPk1N     HxrYjkCkD7RsEcxCxGpyd8WCEGyWeKy yXNXL
+> S6Ojo8Blf9Kw
+> QKL5sJ2A2sDg4Xvcbe8F2 QhnEApsIYYsKQCvB68vZAnYUMhGgYNFVaV2luHdkR6
+> KmzM9O7pqNXwx9c6X0wL8xUwSaIaTgT9crTnOi
+> v6mT6oTZrmrX6nr       gP      h
+> hJNTK6HGCtlb3Zs6SKKz  HZ8Qo   RlRjYiM
+> Sns7iZyBKS53RHaXisYM19Jfel    dIdmOC3yCcCLTRXPj803IY5Q7sPkVVhtj18Plm TxVNJMqOE        hZ6vidC eQlwbJGE        seQjRm  nACrwK96eIJ     azPVO cNwA7LQx4x49z5M   P0
+> axmqU2N5yjRpctzBf02kW5iawEMORtHEB0gYdO
+> 
+> 
+> GFyVqtEGO3    knHrtsTrLfOv SUh0i5OACYAv0PIGsBuZwCEIQHF0bZZPzm1Z4rc1csvAfMRPx  AEJYSIrOkP9SdjZwj4yCccXkx9cZ5yhnEW
+> piOs9tXRg     hqMABx1hCYF     P5Qx7Wc6ow2y
+> 6te0fDUmnKwtCMrVRKd4mhnBMm2DVeod      bPn6B1r 9ukAReNzw9
+You lost 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Failed
+
+user output vs test output
+267c267,378
+< 7RXEPWVR      JG ecOAxgOm4A2zL         CWZ9 hvpwOYjQjGXHQoeNwOqYQKoFOIVnNVYtK
+\ No newline at end of file
+---
+> 7RXEPWVR      JG ecOAxgOm4A2zL         CWZ9 hvpwOYjQjGXHQoeNwOqYQKoFOIVnNVYtKxqo4RnqHFOhfEKWfs3Iue    YL1ln3S 
+> OJqemz3JpOvUqmBTz
+> wlHYH5G5mYH
+> AjQ6iLdE55DZXF78GYDpfwbnIU9Z8kEE7CxHEaTQ9RPA  0MR3soWQFyv2o   zg3ELLm4WTGG2eHMbXNvrqtnrv
+> 5sZW27pP811a
+> 1ARruV
+> 3eylbbViJ6sLhxlsx sfYuQOL8FxBx2D2FZu7
+> fUvArMs98evDapfXtWRDPGPwkhYiENT6u2ZuwzgGZpwHKEZ       oZEUieniKLOP9OI9AgDWIHM7KIpuuZwX3dmhTTHBkunXqfIm1RagvPYCegNegrydW6YG4FtLR5htxzS55MK1CtNLY
+> NjkuJE1WN
+> 0kcDdcNeTrGCQwup9XJzdeP32PRZVCRTzzfyFAB6q0    4ZKij5Tm2kMgR   omOStA
+> CdE6PF60LlXxeriBb8nqYTHEQzjMJedJZSi3BSFnV1z4sRRqkm5T6ePpUzsJxVlel
+> Xqa63esF8bHnMdevDJcym88bIJIPAl6G      JnJ5uHuNd2      gfHss1Ccb7dOuXtE
+> EQ9z55PKyGWlYBVEnYqHekG6jdi6bVqbH5
+> ivOpBzZvqhu3pb        ZtSyjsV6kbazEPgJ6yjEXPGr1ACbiP  3gWN7WoSudGQQbo6Y1UJe7MBDHTAkrQVkmTKwZiP0pSwfV4eF6FHrFQXrG8
+> RT8QlDZg1mdVrNS0GGJuLpCsbqaN2aU8pt7JQwQbvsZkUur9OF5fMFcEeiAug70XF7QnlgB1Vehu7zjGJsAGzwRoyKybJQIc6YmXsYsC5Zt7kaskRgev20tX ZMsmB31HXvr5GQuu2mtVsZb4XoFI1PmkXb5RLRtgkdpw7JKAbGRmU71pwJaW6g3IdqAeTEG0xDuSmjGkMGIQkJhai
+> OnNw0sJbTvW8qzkhcDsFRPmSoTaDtJNK8UBGfWTyE4sbnpfsMnYmN82lT6
+>       b6CDkzD2E9K1d3mEvEvP4bTYzDdVy06tOQAZxmh0dq98GQiJEQZhXuyPVjyhHG73WL6x5RQNDLM     3F1ooV2rTzeFz phDRvDGs9UADXjMR  oGqSSFs
+> Mt8vV1LjFcBX M2rRuRg1Zafapk1o3b       9UjKbP  mI1FLn5nb0JO8uUN390P9k
+> KvWsgWiZJb    iisUxmyluqch NfqbuK9NR4hN72 yEI8hBJ7n
+> egGwxsnH8e
+> GovJ7u1jlSmffFqmd8Tk1iCWfrHsf4bfrY2PLMSvPyOSLxFbnxg   
+> IjcDkTM       jvqe5q76BzF52
+> 0qOZYcLBYvY   PODxG5avsrt5Ut
+> Yn PdByq30PZtLmvhwH
+> hlACpsP10tkNyOxIp
+> 0ckb4DLtsg3qeR71bK
+> 7769kr        Dgvn7X6FofHTKikEHCrGVH  qrrUlKpT8YJRb6KhNg
+> Jj1qFZnGVM2qaLaw6O1MJanQqxIWZC7m2jEeSQGoQmrZSV        6zshr0bKzgNaYsdHFhRBI5wedCxn0g2qdAdRCPbKpp
+> tkcfLaUG8b6lO1DQPKQuvLxmVv2   fnWIToePvQt13lYSvWMMLZZeB       nvybSH8OMADyAT  qU1dAnJbQupu x8OhyKm79P5 g iMkQKra074WelYCbFIfJlofj7ouGt1p3crzVjdjo6nvZwLHxPSDyqskegm2rij       kMIvMNTTXWdcLHuWFDsAIy aWOtIz3PoAFELlbBJhbeZrscM6yLU2oQ8zj0A3tX7        nXJf5Nq0qUUT4l3seRNSp9MTTi JgbLRaC1giY4dTNmAku1yw
+You lost 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 5 Failed
+
+user output vs test output
+6547c6547,6870
+< The hovercraft booms down
+\ No newline at end of file
+---
+> The hovercraft booms down as they hit.  Morpheus opens the
+> lock on the EMP detonator.
+> 
+> Trinity watches him.
+> 
+>                          MORPHEUS
+>           He's going to make it.
+> 
+> 
+> EXT.  ALLEY - DAY
+> 
+> Neo scrambles up the fire escape as BULLETS spark and
+> RICOCHET around him.
+> 
+> On the third floor, he kicks in the window, jumping into
+> the hall.  The doors count backwards:  310... 309...
+> 
+> 
+> INT.  MAIN DECK
+> 
+> Another systems ALARM sounds.
+> 
+>                          TANK
+>           They've burned through the outer
+>           shields.
+> 
+>                          TRINITY
+>           Hurry, Neo.
+> 
+> 
+> INT.  HALL - DAY
+> 
+> Neo can hear the PHONE RINGING.
+> 
+> 305... 304...
+> 
+> Agent Brown reaches the broken window behind him just as
+> Neo grabs the handle to 303, throwing open the door to
+> find --
+> 
+> Agent Smith, waiting, .45 cocked.
+> 
+> Neo can't move -- can't think --
+> 
+> BOOM.
+> 
+> 
+> INT.  MAIN DECK
+> 
+> Neo's body jerks, and everyone hears it as the LIFE
+> MONITORS SNAP FLATLINE.
+> 
+> Trinity screams.  Morpheus stumbles back in disbelief.
+> 
+>                          MORPHEUS
+>           No, it can't be.  It can't be.
+> 
+> LASERS suddenly SEAR through the main deck as the
+> Sentinels slice open the hull.
+> 
+> 
+> INT.  HALL - DAY
+> 
+> Three holes in his chest, Neo falls to the blue shag
+> carpeting, blood smearing down the wall paper.  Agent
+> Smith stands over him, still aiming, taking no chances.
+> 
+>                          AGENT SMITH
+>           Check him.
+> 
+> 
+> INT.  MAIN DECK
+> 
+> Amid the destruction raining around her, Trinity takes
+> hold of Neo's body.
+> 
+>                          TRINITY
+>           Neo...
+> 
+> 
+> INT.  HALL - DAY
+> 
+> Kneeling beside him, Agent Brown checks his vital signs.
+> 
+>                          AGENT BROWN
+>           He's gone.
+> 
+> Agent Smith smiles, standing over him.
+> 
+>                          AG
+You lost 30 points
+----------------------------------------
+Total 10 points for mx_read_line [ FAIL ]
+-------------------------------------
+
+Running tests for mx_replace_substr for User
+Running tests for mx_replace_substr for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Failed
+
+user output vs test output
+0a1
+> (null)
+\ No newline at end of file
+
+You lost 8 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Failed
+
+user output vs test output
+0a1
+> (null)
+\ No newline at end of file
+
+You lost 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Failed
+
+user output vs test output
+0a1
+> (null)
+\ No newline at end of file
+
+You lost 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 14 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 14 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 5 Ok
+You get 14 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 6 Ok
+You get 14 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 7 Ok
+You get 16 points
+----------------------------------------
+Total 72 points for mx_replace_substr [ SUCCESS ]
+
+----------------------------------------
+
+---------------------------------------
+Running tests for mx_strsplit for User
+Running tests for mx_strsplit for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Failed
+
+user output vs test output
+0a1
+> 0 leaks for 0 total leaked bytes
+\ No newline at end of file
+
+You lost 25 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 25 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Failed
+
+user output vs test output
+0a1,6
+> yrT  JDmSDnWp6
+> FOyDD7dZRxPALvkB4aAlwpClbHA4muB0YveYKKn6MRy2
+> rvuxieaKvutxnbZY      OaHlWIOtSGV MBTsNmw5kULlVoujtV
+> size of pointer: 112
+> 
+> 0 leaks for 0 total leaked bytes
+\ No newline at end of file
+
+You lost 25 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 25 points
+----------------------------------------
+Total 50 points for mx_strsplit [ SUCCESS ]
+
+
+----------------------------------------
